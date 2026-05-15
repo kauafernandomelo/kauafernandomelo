@@ -55,6 +55,19 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/gith
 </div>
 
 ---
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kauafernandomelo&theme=tokyonight" />
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kauafernandomelo&theme=tokyonight" />
+
+</div>
+
+---
+
+
 
 # 📚 Atualmente aprendendo
 
