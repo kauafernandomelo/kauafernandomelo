@@ -2,15 +2,6 @@
 
 🎯 Desenvolvedor Back-End em formação apaixonado por tecnologia, APIs e desenvolvimento Full Stack.
 
-Atualmente estudando:
-- Python
-- FastAPI
-- SQLAlchemy
-- JWT
-- JavaScript
-- HTML/CSS
-- APIs REST
-- Deploy Full Stack
 
 🚀 Desenvolvendo projetos reais para evoluir minhas habilidades e construir portfólio profissional.
 
@@ -19,6 +10,9 @@ Atualmente estudando:
 # 💈 Projeto em destaque
 
 ## BarbeariaPRO - Sistema Full Stack de Agendamento
+
+<img width="1820" height="941" alt="barbearia" src="https://github.com/user-attachments/assets/6782210d-0237-4516-9166-a40fad76ced8" />
+
 
 Sistema completo de agendamento para barbearia com:
 
@@ -54,6 +48,35 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/gith
 
 </div>
 
+🛒 Novo Projeto
+Rastreador de Preços Automático
+
+Sistema automatizado de monitoramento de preços desenvolvido com Python.
+
+O projeto monitora produtos automaticamente todos os dias, salva histórico de preços em banco de dados e envia alertas automáticos por e-mail.
+
+## Funcionalidades
+
+* ✅ Web Scraping com Playwright
+* ✅ Histórico de preços com SQLite
+* ✅ Comparação de preços anteriores
+* ✅ Detecção de aumento e queda
+* ✅ Avaliação do melhor preço histórico
+* ✅ Envio automático de e-mails
+* ✅ Automação em nuvem com GitHub Actions
+
+Tecnologias utilizadas
+Python
+Playwright
+BeautifulSoup
+SQLite
+GitHub Actions
+SMTP
+🖼 Demo do Sistema
+E-mail automático recebido
+<img width="1920" height="1080" alt="demo" src="https://github.com/user-attachments/assets/8fabfaef-974f-45a6-a9c6-9725ffdaaa3d" />
+
+
 ---
 ## 📊 GitHub Stats
 
@@ -68,32 +91,35 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/gith
 ---
 
 
-
 # 📚 Atualmente aprendendo
 
-- FastAPI
-- SQLAlchemy
-- JWT Authentication
-- APIs REST
-- Git/GitHub
-- Deploy com Render e Vercel
-- Estruturação de backend
-- Integração Frontend + Backend
+* 🚀 Python
+* 🚀 FastAPI
+* 🚀 SQLAlchemy
+* 🚀 JWT Authentication
+* 🚀 JavaScript
+* 🚀 HTML/CSS
+* 🚀 APIs REST
+* 🚀 Web Scraping
+* 🚀 GitHub Actions
+* 🚀 SQLite
+* 🚀 Deploy Full Stack
 
----
 
-# 🧠 O que já pratiquei
+## 🧠 O que já pratiquei
 
-✅ CRUD completo  
-✅ Sistema de login JWT  
-✅ Criação de APIs  
-✅ Deploy Full Stack  
-✅ Banco de dados  
-✅ Debug de aplicações reais  
-✅ Autenticação Bearer Token  
-✅ Integração Frontend + Backend  
+* ✅ CRUD completo
+* ✅ Sistema de autenticação JWT
+* ✅ APIs REST
+* ✅ Deploy Full Stack
+* ✅ Banco de dados
+* ✅ Web Scraping
+* ✅ GitHub Actions
+* ✅ Automação de tarefas
+* ✅ Integração Frontend + Backend
+* ✅ Debug de aplicações reais
+* ✅ SMTP e envio automático de emails
 
----
 
 # 📈 Objetivo
 
