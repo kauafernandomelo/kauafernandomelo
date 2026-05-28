@@ -7,22 +7,40 @@
 
 ---
 
-# 💈 Projeto em destaque
+# 🚀 Projetos em Destaque
 
-## BarbeariaPRO - Sistema Full Stack de Agendamento
+## 🔗 URL Shortener
+<img width="1856" height="954" alt="image" src="https://github.com/user-attachments/assets/c75b48c7-95f5-408b-8086-384344670501" />
 
-<img width="1820" height="941" alt="barbearia" src="https://github.com/user-attachments/assets/6782210d-0237-4516-9166-a40fad76ced8" />
+
+Sistema de encurtamento de URLs desenvolvido com FastAPI.
+
+✅ FastAPI
+✅ SQLAlchemy
+✅ PostgreSQL
+✅ Pytest
+✅ Arquitetura em Camadas
+✅ Deploy no Render
+
+🌐 Aplicação:
+https://encurtador-url-ymvj.onrender.com
+
+📚 API:
+https://encurtador-url-ymvj.onrender.com/docs
+
+---
+
+## 💈 BarbeariaPRO
+
+<img width="1859" height="954" alt="image" src="https://github.com/user-attachments/assets/077b2e9a-0b50-434e-a5b6-c283dd965cdb" />
 
 
-Sistema completo de agendamento para barbearia com:
+Sistema Full Stack de agendamento para barbearias.
 
-✅ Cadastro de usuários  
-✅ Login com autenticação JWT  
-✅ Criação de agendamentos  
-✅ API REST  
-✅ Deploy online  
-✅ Backend FastAPI  
-✅ Frontend JavaScript  
+✅ JWT Authentication
+✅ FastAPI
+✅ Frontend JavaScript
+✅ Deploy Full Stack
 
 🌐 Frontend:
 https://barbearia-pro-pi.vercel.app
@@ -32,20 +50,16 @@ https://barbeariapro.onrender.com/docs
 
 ---
 
-<div style="display: inline_block"><br>
-<img align="center" alt="Python" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="JavaScript" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="HTML" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Git" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img align="center" alt="Github" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+## 🛒 Rastreador de Preços Automático
 
+Sistema de monitoramento de preços com alertas por e-mail.
+
+✅ Playwright
+✅ BeautifulSoup
+✅ SQLite
+✅ GitHub Actions
+✅ SMTP
+✅ Automação diária
 </div>
 
 🛒 Novo Projeto
