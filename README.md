@@ -100,62 +100,93 @@ class Desenvolvedor:
 
 <td width="50%" valign="top">
 
+### 🏆 Concursos PB — Monitor de Concursos Públicos
+
+Sistema automatizado que monitora **concursos públicos da Paraíba**, coleta novos editais e oportunidades por meio de **web scraping** e envia notificações diretamente pelo **Telegram**.
+
+A coleta é executada automaticamente em horários programados utilizando **GitHub Actions**, sem necessidade de um servidor dedicado.
+
+**Stack:** `Python` · `Web Scraping` · `Telegram Bot API` · `GitHub Actions`
+
+[![GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/kauafernandomelo)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💰 Busca Hardware — Comparador de Preços
+
+Comparador de preços que monitora **KaBuM!**, **Terabyte**, **GK Infostore** e **Patoloco**, identifica alterações de preço e promoções e envia alertas por e-mail.
+
+Possui **scrapers independentes por loja**, armazenamento de dados e coleta automatizada.
+
+**Stack:** `Django` · `Tailwind CSS` · `SQLite/PostgreSQL` · `GitHub Actions`
+
+[![GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/kauafernandomelo/busca-hardware)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔗 Encurtador de URL — REST API
+
+API de encurtamento de URLs com **redirecionamento**, **estatísticas de acesso** e documentação interativa.
+
+Desenvolvido com **arquitetura em camadas**, persistência em PostgreSQL, testes automatizados e deploy em produção.
+
+**Stack:** `FastAPI` · `SQLAlchemy` · `PostgreSQL` · `Pytest`
+
+[![GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/kauafernandomelo/encurtador-url)
+
+</td>
+
+<td width="50%" valign="top">
+
 ### 🤖 TechShop Bot — RAG + n8n
-Bot de atendimento para **Telegram** que usa **RAG** (Retrieval-Augmented Generation) para responder com base em uma base de conhecimento e encaminhar para um humano quando necessário. Memória por usuário e busca semântica.
+
+Bot de atendimento para **Telegram** utilizando **RAG (Retrieval-Augmented Generation)** para responder perguntas com base em uma base de conhecimento.
+
+Implementa **busca semântica**, memória por usuário e encaminhamento para atendimento humano.
 
 **Stack:** `n8n` · `Google Gemini` · `Qdrant` · `Docker`
 
-[![Ver repositório](https://img.shields.io/badge/Ver%20no%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauafernandomelo/techshop-bot-rag-n8n)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔗 Encurtador de URL
-API de encurtamento de links com redirecionamento, estatísticas de acesso e documentação interativa. **Arquitetura em camadas**, testes com Pytest e deploy em produção.
-
-**Stack:** `FastAPI` · `SQLAlchemy` · `PostgreSQL` · `Pytest`
-
-[![Repo](https://img.shields.io/badge/Ver%20no%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauafernandomelo/encurtador-url)
+[![GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/kauafernandomelo/techshop-bot-rag-n8n)
 
 </td>
 
 </tr>
+
 <tr>
 
 <td width="50%" valign="top">
 
-### 📦 Controle de Estoque
-API REST para gestão de estoque: cadastro de produtos, entradas/saídas, autenticação **JWT** e documentação automática via Swagger.
+### 📉 Rastreador de Preços — Web Scraping
 
-**Stack:** `FastAPI` · `SQLAlchemy` · `PostgreSQL` · `Pytest`
+Sistema automatizado de monitoramento de preços que coleta informações de produtos, mantém **histórico de preços** e gera relatórios periódicos.
 
-[![Repo](https://img.shields.io/badge/Ver%20no%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauafernandomelo/controle-de-estoque)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📉 Rastreador de Preços
-Monitor automático de preços via **web scraping** que roda 100% na nuvem com **GitHub Actions**, guarda histórico e envia relatórios diários por e-mail.
+Todo o processo é executado em cloud através do **GitHub Actions**, sem necessidade de servidor dedicado.
 
 **Stack:** `Playwright` · `BeautifulSoup` · `SQLite` · `GitHub Actions`
 
-[![Repo](https://img.shields.io/badge/Ver%20no%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauafernandomelo/rastreador-precos)
+[![GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/kauafernandomelo/rastreador-precos)
 
 </td>
 
-</tr>
-<tr>
-
-<td colspan="2" align="center" valign="top">
+<td width="50%" valign="top">
 
 ### 💬 b2bflow — Automação WhatsApp
-Automação de mensagens em massa: lê contatos no **Supabase** e dispara mensagens personalizadas no **WhatsApp** via Z-API, com logging do fluxo.
+
+Sistema de automação de mensagens que consulta contatos armazenados no **Supabase** e envia mensagens personalizadas através da **Z-API**.
+
+Possui integração com APIs externas e **logging do fluxo de execução**.
 
 **Stack:** `Python` · `Supabase` · `Z-API`
 
-[![Repo](https://img.shields.io/badge/Ver%20no%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauafernandomelo/b2bflow)
+[![GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/kauafernandomelo/b2bflow)
 
 </td>
 
@@ -163,6 +194,7 @@ Automação de mensagens em massa: lê contatos no **Supabase** e dispara mensag
 </table>
 
 <br/>
+
 
 <!-- ===================================================================== -->
 <!--                           ESTATÍSTICAS                                -->
