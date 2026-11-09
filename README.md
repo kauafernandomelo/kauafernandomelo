@@ -100,17 +100,19 @@ class Desenvolvedor:
 
 <td width="50%" valign="top">
 
-### 🏆 Concursos PB — Monitor de Concursos Públicos
+### 🐦 Twitter Clone — Full-stack
 
-Sistema automatizado que monitora **concursos públicos da Paraíba**, coleta novos editais e oportunidades por meio de **web scraping** e envia notificações diretamente pelo **Telegram**.
+Clone do Twitter/X com **feed**, **notificações e mensagens diretas em tempo real**, busca full-text em português e upload de imagens.
 
-A coleta é executada automaticamente em horários programados utilizando **GitHub Actions**, sem necessidade de um servidor dedicado.
+Monorepo **React + Node** com autenticação via JWT e refresh token rotativo, testes automatizados, CI no GitHub Actions e deploy com Docker.
 
-**Stack:** `Python` · `Web Scraping` · `Telegram Bot API` · `GitHub Actions`
+**Stack:** `React` · `TypeScript` · `Node.js` · `Express` · `Prisma` · `PostgreSQL` · `Socket.IO`
 
-[![GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/kauafernandomelo)
+[![GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauafernandomelo/twitter-clone-fullstack)
+[![Demo](https://img.shields.io/badge/Ver%20ao%20vivo-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://twitter-clone-05v3.onrender.com)
 
 </td>
+
 
 <td width="50%" valign="top">
 
@@ -188,7 +190,9 @@ Possui integração com APIs externas e **logging do fluxo de execução**.
 
 [![GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/kauafernandomelo/b2bflow)
 
+
 </td>
+
 
 </tr>
 </table>
